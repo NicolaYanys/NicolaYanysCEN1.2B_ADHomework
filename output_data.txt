@@ -1,0 +1,5 @@
+The optimal division of books to minimize the maximum workload is:
+Employee 1: 1500 pages ( 100 200 300 400 500 )
+Employee 2: 1300 pages ( 600 700 )
+Employee 3: 1700 pages ( 800 900 )
+The optimal division of books to minimize the maximum workload is: 1700 pages

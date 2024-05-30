@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1716048023 source:c:\users\alexandru\desktop\ad homework\ad homework\book_division.c
+	"book_division.h"
+	<stdio.h>
+	<limits.h>
+
+1716111156 c:\users\alexandru\desktop\ad homework\ad homework\book_division.h
+
+1716111156 source:c:\users\alexandru\desktop\ad homework\ad homework\data_generation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"book_division.h"
+
+1716111454 source:c:\users\alexandru\desktop\ad homework\ad homework\main.c
+	<stdio.h>
+	<stdlib.h>
+	"book_division.h"
+
+1716111156 source:c:\users\alexandru\desktop\ad homework\ad homework\random_data_generation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"book_division.h"
+
+1716111156 source:c:\users\alexandru\desktop\ad homework\v3\data_generation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"book_division.h"
+
+1716111156 c:\users\alexandru\desktop\ad homework\v3\book_division.h
+
+1716641958 source:c:\users\alexandru\desktop\ad homework\v3\random_data_generation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"book_division.h"
+
+1716574853 source:c:\users\alexandru\desktop\ad homework\v3\book_division.c
+	"book_division.h"
+	<stdio.h>
+	<limits.h>
+
+1716641958 source:c:\users\alexandru\desktop\ad homework\v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"book_division.h"
+
+1716111156 source:c:\users\ianis\downloads\ad homework\data_generation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"book_division.h"
+
+1716111156 c:\users\ianis\downloads\ad homework\book_division.h
+
+1716641958 source:c:\users\ianis\downloads\ad homework\main.c
+	<stdio.h>
+	<stdlib.h>
+	"book_division.h"
+
+1716641958 source:c:\users\ianis\downloads\ad homework\random_data_generation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"book_division.h"
+
+1717092534 source:c:\users\ianis\downloads\ad homework\book_division.c
+	"book_division.h"
+	<stdio.h>
+	<limits.h>
+

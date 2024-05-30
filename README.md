@@ -9,7 +9,7 @@ There are multiple methods for compiling and running this code:
 
 2.Click on File in the top menu and select Open.... 
 
-3.Navigate to the folder where you have saved the project. The folder name is NicolaYanysCEN1.2B_ADHomework. 
+3.Navigate to the folder where you have saved the project. The folder name is AD Homework. 
 
 4.Select the file AD Homework.cbp and click Open.
 
